@@ -1,0 +1,13 @@
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\bin\Debug\netcoreapp3.1\GitWorkFlowProject.exe
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\bin\Debug\netcoreapp3.1\GitWorkFlowProject.deps.json
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\bin\Debug\netcoreapp3.1\GitWorkFlowProject.runtimeconfig.json
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\bin\Debug\netcoreapp3.1\GitWorkFlowProject.runtimeconfig.dev.json
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\bin\Debug\netcoreapp3.1\GitWorkFlowProject.dll
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\bin\Debug\netcoreapp3.1\GitWorkFlowProject.pdb
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\obj\Debug\netcoreapp3.1\GitWorkFlowProject.csprojAssemblyReference.cache
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\obj\Debug\netcoreapp3.1\GitWorkFlowProject.AssemblyInfoInputs.cache
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\obj\Debug\netcoreapp3.1\GitWorkFlowProject.AssemblyInfo.cs
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\obj\Debug\netcoreapp3.1\GitWorkFlowProject.csproj.CoreCompileInputs.cache
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\obj\Debug\netcoreapp3.1\GitWorkFlowProject.dll
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\obj\Debug\netcoreapp3.1\GitWorkFlowProject.pdb
+D:\MyProjects\ASP.Net\GitWorkFlow\GitWorkFlowProject\GitWorkFlowProject\obj\Debug\netcoreapp3.1\GitWorkFlowProject.genruntimeconfig.cache
